@@ -4,20 +4,20 @@
 Login Page 
 Register Page 
 ## ++++++Client Side+++++++
-Functions Page: functions.php
-Index Page: index.php
+Functions Page: functions.php;
+Index Page: index.php;
 ## *****CSS Folder******
-owl.carousel.min.css
-register.css
-style.css
-superslides.css
+owl.carousel.min.css;
+register.css;
+style.css;
+superslides.css;
 ## *****JS Folder******
-jquery.superslides.min.js
-owl.carousel.min.js
-script.js
-typed.min.js
+jquery.superslides.min.js;
+owl.carousel.min.js;
+script.js;
+typed.min.js;
 ## *****img Folder******
-icons, logos, and JPEG images
+icons, logos, and JPEG images;
 ## ++++++Admin Side+++++++
 
 
